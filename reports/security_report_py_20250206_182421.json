@@ -1,0 +1,8 @@
+{
+    "language": "PY",
+    "timestamp": "2025-02-06 18:24:21",
+    "issues_detected": [
+        "Atributo 'password' sin encapsulamiento seguro en l\u00ednea 3",
+        "M\u00e9todo p\u00fablico 'public_method' en l\u00ednea 5."
+    ]
+}

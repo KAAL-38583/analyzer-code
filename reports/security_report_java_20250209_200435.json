@@ -1,0 +1,10 @@
+{
+    "language": "JAVA",
+    "timestamp": "2025-02-09 20:04:35",
+    "issues_detected": [
+        "M\u00e9todo p\u00fablico 'publicMethod' detectado.",
+        "M\u00e9todo p\u00fablico 'undocumentedMethod' detectado.",
+        "M\u00e9todo p\u00fablico 'nestedIfExample' detectado.",
+        "Atributo p\u00fablico 'password' sin encapsulamiento seguro."
+    ]
+}

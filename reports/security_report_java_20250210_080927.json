@@ -1,0 +1,15 @@
+{
+    "language": "JAVA",
+    "timestamp": "2025-02-10 08:09:27",
+    "issues_detected": [
+        "M\u00e9todo p\u00fablico 'publicMethod' detectado. Considere revisar los permisos de acceso.",
+        "M\u00e9todo p\u00fablico 'undocumentedMethod' detectado. Considere revisar los permisos de acceso.",
+        "M\u00e9todo p\u00fablico 'nestedIfExample' detectado. Considere revisar los permisos de acceso.",
+        "Atributo p\u00fablico 'password' sin encapsulamiento seguro.",
+        "Clase p\u00fablica 'TestJava' detectada. Considere aplicar encapsulamiento si no es necesario.",
+        "M\u00e9todo 'publicMethod' no tiene documentaci\u00f3n. Considere agregar comentarios con /** */.",
+        "M\u00e9todo 'undocumentedMethod' no tiene documentaci\u00f3n. Considere agregar comentarios con /** */.",
+        "M\u00e9todo 'nestedIfExample' no tiene documentaci\u00f3n. Considere agregar comentarios con /** */.",
+        "Se detectaron estructuras if-else anidadas. Considere simplificar el flujo de control."
+    ]
+}

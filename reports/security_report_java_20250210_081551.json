@@ -1,0 +1,17 @@
+{
+    "language": "JAVA",
+    "timestamp": "2025-02-10 08:15:51",
+    "issues_detected": [
+        "M\u00e9todo p\u00fablico 'getNombre' detectado. Considere revisar los permisos de acceso.",
+        "M\u00e9todo p\u00fablico 'setNombre' detectado. Considere revisar los permisos de acceso.",
+        "M\u00e9todo p\u00fablico 'getEdad' detectado. Considere revisar los permisos de acceso.",
+        "M\u00e9todo p\u00fablico 'setEdad' detectado. Considere revisar los permisos de acceso.",
+        "M\u00e9todo p\u00fablico 'mostrarInformacion' detectado. Considere revisar los permisos de acceso.",
+        "Clase p\u00fablica 'Persona' detectada. Considere aplicar encapsulamiento si no es necesario.",
+        "M\u00e9todo 'getNombre' no tiene documentaci\u00f3n. Considere agregar comentarios con /** */.",
+        "M\u00e9todo 'setNombre' no tiene documentaci\u00f3n. Considere agregar comentarios con /** */.",
+        "M\u00e9todo 'getEdad' no tiene documentaci\u00f3n. Considere agregar comentarios con /** */.",
+        "M\u00e9todo 'setEdad' no tiene documentaci\u00f3n. Considere agregar comentarios con /** */.",
+        "M\u00e9todo 'mostrarInformacion' no tiene documentaci\u00f3n. Considere agregar comentarios con /** */."
+    ]
+}
